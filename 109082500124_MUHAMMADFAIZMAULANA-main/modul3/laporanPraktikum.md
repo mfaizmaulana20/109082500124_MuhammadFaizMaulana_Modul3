@@ -42,7 +42,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Modul3/blob/main/109082500124_MUHAMMADFAIZMAULANA-main/modul3/output/Out%20Put%20-soal1.png)
 [penjelasan] : Program Go tersebut menghitung permutasi dan kombinasi menggunakan fungsi faktorial. Input dibaca dengan fmt.Scan, lalu dihitung permutasi (n!/(n−r)!) dan kombinasi (n!/(r!(n−r)!)) menggunakan fungsi factorial, kemudian hasilnya ditampilkan.
 
 ## Unguided 
@@ -82,7 +82,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Modul3/blob/main/109082500124_MUHAMMADFAIZMAULANA-main/modul3/output/Out%20Put-Soal%202.png)
 [penjelasan] : Program Go tersebut menghitung komposisi fungsi f, g, dan h dari input pengguna, lalu menampilkan hasil gabungan seperti f(g(h(a))), g(h(f(b))), dan h(f(g(c))).
 
 ## Unguided 
@@ -130,7 +130,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/blob/main/modul1/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Modul3/blob/main/109082500124_MUHAMMADFAIZMAULANA-main/modul3/output/Out%20Put-Soal%203.png)
 [penjelasan] :Program Go tersebut mengecek apakah suatu titik berada di dalam lingkaran dengan menghitung jarak titik ke pusat dan membandingkannya dengan jari-jari, lalu menampilkan hasilnya.
 
 
